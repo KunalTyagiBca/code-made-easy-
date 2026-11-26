@@ -1,5 +1,8 @@
 #include <stdio.h>
+/*this include header file provides input and output
+Breakdown: include standard input and output, h= header file*/
 int main()
 {
    printf("Hello World !!");
+/* for printing message inside the"" double quotes*/
 }
